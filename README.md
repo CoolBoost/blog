@@ -1,5 +1,5 @@
 # Notebook
-A notebook based on valaxy, recording my learning and daily life.
+A notebook based on valaxy, recording my learning and life.
 
 ## Usage
 ```
